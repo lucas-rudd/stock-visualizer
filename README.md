@@ -26,6 +26,10 @@ The x-axis represents the sentiment score (calculated by simply subtracting the 
 10: Run `yarn start` in the `servcie` directory
 
 # Limitations
+Obviously, writing to a file is not ideal. I intend to deploy this and use a data store instead, as well as host the app (recieving data via Websockets perhaps).
+
+Because the service is writing to a file without mutexes, and the listeners can recieve data independently of one another, it's possible that two processes are trying to write to the file at the same time, with one overriding the other due to it having stale data.
+
 The service only counts mentions of stocks if the stock ticker is mentioned in all uppercase, it does not count the stock as mentioned if the company name is mentioned, rather than the stock ticker (e.g. TLSA or $TLSA will be counted, but tlsa or Tesla will not be).
 
 The reason for this is because there was too much noise when analyzing the data in a case-insensitive way. There are many stock tickers that overlap with commonly used vocabularly. I tried to ignore those common words, but there were too many to ignore, and I could never be sure as to if it was actually a stock ticker, and I was ignoring it, or if it was just a normal conversation and I accidentally picked it up.
