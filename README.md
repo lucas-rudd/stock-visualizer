@@ -11,6 +11,8 @@ The front-end component takes that data and graphs it using a bubble graph.
 
 The x-axis represents the sentiment score (calculated by simply subtracting the negative sentiment score from the positive), the y-axis and z-axis (how big the bubble is) both represent the amount of times the stock has been mentioned.
 
+![Bubble Graph](./BubbleGraph.png "Example Bubble Graph")
+
 # Setup
 1: Create a Reddit app [here](https://ssl.reddit.com/prefs/apps/), you can view [this article](https://techradicals.wordpress.com/2020/08/09/how-to-create-a-simple-reddit-bot/) for more information on how to set the bot up
 2: Copy the client secret and the clientId after the app is set up
