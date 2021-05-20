@@ -1,0 +1,32 @@
+{
+  "name": "reddit-bot",
+  "version": "1.0.0",
+  "description": "A test reddit bot",
+  "main": "index.js",
+  "author": "Lucas Rudd",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.910.0",
+    "axios": "^0.21.1",
+    "dotenv": "^9.0.2",
+    "html-document": "^0.8.1",
+    "snoostorm": "^1.5.2",
+    "snoowrap": "^1.23.0",
+    "xlsx": "^0.17.0",
+    "xml2js": "^0.4.23"
+  },
+  "devDependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/dotenv": "^8.2.0",
+    "@types/node": "^15.3.1",
+    "@types/xlsx": "^0.0.36",
+    "@types/xml2js": "^0.4.8",
+    "@typescript-eslint/eslint-plugin": "^4.24.0",
+    "@typescript-eslint/parser": "^4.24.0",
+    "eslint": "^7.26.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.23.2",
+    "prettier": "^2.3.0",
+    "typescript": "^4.2.4"
+  }
+}
