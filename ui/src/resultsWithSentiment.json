@@ -4,92 +4,97 @@
         "NEUTRAL": 3
     },
     "BNGO": {
-        "timesMentioned": 17,
-        "NEUTRAL": 9,
-        "NEGATIVE": 3,
-        "POSITIVE": 5
-    },
-    "RIDE": {
-        "timesMentioned": 15,
-        "NEUTRAL": 6,
-        "NEGATIVE": 8,
-        "MIXED": 1
-    },
-    "PSFE": {
-        "timesMentioned": 3,
-        "NEGATIVE": 1,
-        "NEUTRAL": 2
-    },
-    "PLTR": {
-        "timesMentioned": 61,
-        "NEUTRAL": 28,
-        "NEGATIVE": 22,
+        "timesMentioned": 32,
+        "NEUTRAL": 15,
+        "NEGATIVE": 6,
         "POSITIVE": 10,
         "MIXED": 1
     },
+    "RIDE": {
+        "timesMentioned": 21,
+        "NEUTRAL": 7,
+        "NEGATIVE": 13,
+        "MIXED": 1
+    },
+    "PSFE": {
+        "timesMentioned": 4,
+        "NEGATIVE": 1,
+        "NEUTRAL": 2,
+        "POSITIVE": 1
+    },
+    "PLTR": {
+        "timesMentioned": 73,
+        "NEUTRAL": 31,
+        "NEGATIVE": 28,
+        "POSITIVE": 13,
+        "MIXED": 1
+    },
     "CLOV": {
-        "timesMentioned": 44,
-        "NEUTRAL": 26,
-        "NEGATIVE": 9,
-        "POSITIVE": 9
+        "timesMentioned": 53,
+        "NEUTRAL": 31,
+        "NEGATIVE": 11,
+        "POSITIVE": 11
     },
     "SPCE": {
-        "timesMentioned": 27,
-        "POSITIVE": 4,
-        "NEUTRAL": 20,
-        "NEGATIVE": 3
+        "timesMentioned": 39,
+        "POSITIVE": 6,
+        "NEUTRAL": 25,
+        "NEGATIVE": 8
     },
     "TSLA": {
-        "timesMentioned": 80,
-        "NEUTRAL": 56,
-        "NEGATIVE": 20,
-        "POSITIVE": 4
+        "timesMentioned": 104,
+        "NEUTRAL": 77,
+        "NEGATIVE": 21,
+        "POSITIVE": 4,
+        "MIXED": 2
     },
     "TA": {
-        "timesMentioned": 8,
-        "POSITIVE": 2,
+        "timesMentioned": 9,
+        "POSITIVE": 3,
         "NEGATIVE": 3,
         "NEUTRAL": 2,
         "MIXED": 1
     },
     "AMC": {
-        "timesMentioned": 66,
-        "NEGATIVE": 24,
-        "NEUTRAL": 32,
-        "POSITIVE": 9,
+        "timesMentioned": 106,
+        "NEGATIVE": 46,
+        "NEUTRAL": 46,
+        "POSITIVE": 13,
         "MIXED": 1
     },
     "RIOT": {
-        "timesMentioned": 5,
-        "NEGATIVE": 3,
-        "NEUTRAL": 2
+        "timesMentioned": 8,
+        "NEGATIVE": 4,
+        "NEUTRAL": 4
     },
     "GME": {
-        "timesMentioned": 76,
-        "NEUTRAL": 26,
-        "NEGATIVE": 41,
-        "POSITIVE": 7,
-        "MIXED": 2
+        "timesMentioned": 104,
+        "NEUTRAL": 37,
+        "NEGATIVE": 53,
+        "POSITIVE": 9,
+        "MIXED": 5
     },
     "MN": {
         "timesMentioned": 1,
         "NEUTRAL": 1
     },
     "DD": {
-        "timesMentioned": 19,
-        "POSITIVE": 6,
-        "NEGATIVE": 10,
+        "timesMentioned": 36,
+        "POSITIVE": 10,
+        "NEGATIVE": 12,
         "MIXED": 1,
-        "NEUTRAL": 2
+        "NEUTRAL": 13
     },
     "FUBO": {
-        "timesMentioned": 2,
-        "NEUTRAL": 2
+        "timesMentioned": 3,
+        "NEUTRAL": 2,
+        "NEGATIVE": 1
     },
     "TLRY": {
-        "timesMentioned": 4,
+        "timesMentioned": 6,
         "NEGATIVE": 1,
-        "NEUTRAL": 3
+        "NEUTRAL": 4,
+        "POSITIVE": 1
     },
     "LAZ": {
         "timesMentioned": 1,
@@ -101,21 +106,21 @@
         "NEUTRAL": 1
     },
     "AMD": {
-        "timesMentioned": 50,
-        "NEGATIVE": 13,
-        "NEUTRAL": 31,
-        "POSITIVE": 6
+        "timesMentioned": 64,
+        "NEGATIVE": 16,
+        "NEUTRAL": 39,
+        "POSITIVE": 9
     },
     "COIN": {
-        "timesMentioned": 12,
+        "timesMentioned": 20,
         "NEGATIVE": 4,
-        "NEUTRAL": 3,
+        "NEUTRAL": 6,
         "MIXED": 1,
-        "POSITIVE": 4
+        "POSITIVE": 9
     },
     "RSI": {
-        "timesMentioned": 6,
-        "NEUTRAL": 3,
+        "timesMentioned": 7,
+        "NEUTRAL": 4,
         "NEGATIVE": 1,
         "MIXED": 2
     },
@@ -124,9 +129,9 @@
         "NEUTRAL": 1
     },
     "NIO": {
-        "timesMentioned": 11,
-        "NEGATIVE": 4,
-        "NEUTRAL": 5,
+        "timesMentioned": 19,
+        "NEGATIVE": 9,
+        "NEUTRAL": 8,
         "POSITIVE": 1,
         "MIXED": 1
     },
@@ -159,55 +164,57 @@
         "NEGATIVE": 1
     },
     "AAPL": {
-        "timesMentioned": 26,
-        "NEGATIVE": 4,
-        "NEUTRAL": 16,
+        "timesMentioned": 33,
+        "NEGATIVE": 10,
+        "NEUTRAL": 17,
         "POSITIVE": 4,
         "MIXED": 2
     },
     "BABA": {
-        "timesMentioned": 16,
-        "NEUTRAL": 6,
-        "NEGATIVE": 8,
+        "timesMentioned": 18,
+        "NEUTRAL": 7,
+        "NEGATIVE": 9,
         "POSITIVE": 1,
         "MIXED": 1
     },
     "MARK": {
-        "timesMentioned": 1,
-        "NEUTRAL": 1
+        "timesMentioned": 2,
+        "NEUTRAL": 1,
+        "NEGATIVE": 1
     },
     "T": {
-        "timesMentioned": 5,
+        "timesMentioned": 6,
         "NEUTRAL": 2,
         "POSITIVE": 1,
-        "NEGATIVE": 2
+        "NEGATIVE": 3
     },
     "SNAP": {
-        "timesMentioned": 17,
+        "timesMentioned": 19,
         "POSITIVE": 4,
-        "NEUTRAL": 9,
+        "NEUTRAL": 10,
         "MIXED": 2,
-        "NEGATIVE": 2
+        "NEGATIVE": 3
     },
     "ICE": {
-        "timesMentioned": 3,
-        "NEGATIVE": 2,
+        "timesMentioned": 4,
+        "NEGATIVE": 3,
         "POSITIVE": 1
     },
     "NOK": {
-        "timesMentioned": 21,
-        "NEUTRAL": 18,
-        "NEGATIVE": 2,
-        "POSITIVE": 1
+        "timesMentioned": 29,
+        "NEUTRAL": 21,
+        "NEGATIVE": 4,
+        "POSITIVE": 4
     },
     "ZKIN": {
-        "timesMentioned": 1,
-        "NEUTRAL": 1
+        "timesMentioned": 3,
+        "NEUTRAL": 1,
+        "POSITIVE": 2
     },
     "F": {
-        "timesMentioned": 47,
-        "NEGATIVE": 35,
-        "POSITIVE": 3,
+        "timesMentioned": 64,
+        "NEGATIVE": 50,
+        "POSITIVE": 5,
         "NEUTRAL": 8,
         "MIXED": 1
     },
@@ -220,36 +227,37 @@
         "POSITIVE": 2
     },
     "X": {
-        "timesMentioned": 5,
-        "NEGATIVE": 4,
-        "NEUTRAL": 1
+        "timesMentioned": 9,
+        "NEGATIVE": 5,
+        "NEUTRAL": 4
     },
     "KKR": {
         "timesMentioned": 1,
         "NEUTRAL": 1
     },
     "DKS": {
-        "timesMentioned": 1,
-        "MIXED": 1
+        "timesMentioned": 2,
+        "MIXED": 1,
+        "NEGATIVE": 1
     },
     "NS": {
         "timesMentioned": 1,
         "NEGATIVE": 1
     },
     "L": {
-        "timesMentioned": 6,
+        "timesMentioned": 7,
         "NEGATIVE": 3,
-        "NEUTRAL": 2,
+        "NEUTRAL": 3,
         "POSITIVE": 1
     },
     "CRSR": {
-        "timesMentioned": 2,
-        "NEGATIVE": 2
+        "timesMentioned": 4,
+        "NEGATIVE": 4
     },
     "MVIS": {
-        "timesMentioned": 12,
-        "NEUTRAL": 5,
-        "NEGATIVE": 4,
+        "timesMentioned": 16,
+        "NEUTRAL": 6,
+        "NEGATIVE": 7,
         "POSITIVE": 3
     },
     "JD": {
@@ -258,13 +266,15 @@
         "NEGATIVE": 2
     },
     "CVNA": {
-        "timesMentioned": 1,
-        "MIXED": 1
+        "timesMentioned": 2,
+        "MIXED": 1,
+        "NEGATIVE": 1
     },
     "LMAO": {
-        "timesMentioned": 2,
+        "timesMentioned": 3,
         "NEUTRAL": 1,
-        "POSITIVE": 1
+        "POSITIVE": 1,
+        "NEGATIVE": 1
     },
     "E": {
         "timesMentioned": 5,
@@ -273,30 +283,32 @@
         "NEUTRAL": 1
     },
     "R": {
-        "timesMentioned": 3,
-        "NEGATIVE": 3
+        "timesMentioned": 5,
+        "NEGATIVE": 4,
+        "NEUTRAL": 1
     },
     "NVDA": {
-        "timesMentioned": 8,
-        "NEUTRAL": 6,
-        "NEGATIVE": 2
+        "timesMentioned": 11,
+        "NEUTRAL": 7,
+        "NEGATIVE": 4
     },
     "SIBN": {
         "timesMentioned": 1,
         "NEUTRAL": 1
     },
     "PM": {
-        "timesMentioned": 3,
-        "NEUTRAL": 3
+        "timesMentioned": 10,
+        "NEUTRAL": 8,
+        "NEGATIVE": 2
     },
     "ARK": {
-        "timesMentioned": 4,
-        "NEUTRAL": 3,
+        "timesMentioned": 6,
+        "NEUTRAL": 5,
         "POSITIVE": 1
     },
     "RKT": {
-        "timesMentioned": 19,
-        "NEUTRAL": 8,
+        "timesMentioned": 22,
+        "NEUTRAL": 11,
         "NEGATIVE": 7,
         "POSITIVE": 4
     },
@@ -309,9 +321,9 @@
         "NEUTRAL": 1
     },
     "REAL": {
-        "timesMentioned": 3,
+        "timesMentioned": 4,
         "NEUTRAL": 1,
-        "NEGATIVE": 1,
+        "NEGATIVE": 2,
         "POSITIVE": 1
     },
     "LB": {
@@ -329,38 +341,38 @@
         "NEGATIVE": 2
     },
     "U": {
-        "timesMentioned": 15,
-        "NEGATIVE": 4,
-        "POSITIVE": 1,
+        "timesMentioned": 22,
+        "NEGATIVE": 6,
+        "POSITIVE": 2,
         "MIXED": 2,
-        "NEUTRAL": 8
+        "NEUTRAL": 12
     },
     "BYFC": {
         "timesMentioned": 1,
         "NEUTRAL": 1
     },
     "BB": {
-        "timesMentioned": 5,
-        "NEGATIVE": 2,
+        "timesMentioned": 11,
+        "NEGATIVE": 8,
         "NEUTRAL": 2,
         "POSITIVE": 1
     },
     "VIAC": {
-        "timesMentioned": 13,
-        "POSITIVE": 2,
+        "timesMentioned": 19,
+        "POSITIVE": 5,
         "NEGATIVE": 4,
-        "NEUTRAL": 7
+        "NEUTRAL": 10
     },
     "CLNE": {
-        "timesMentioned": 9,
-        "NEUTRAL": 5,
-        "NEGATIVE": 3,
+        "timesMentioned": 11,
+        "NEUTRAL": 6,
+        "NEGATIVE": 4,
         "POSITIVE": 1
     },
     "OI": {
-        "timesMentioned": 2,
+        "timesMentioned": 3,
         "NEUTRAL": 1,
-        "NEGATIVE": 1
+        "NEGATIVE": 2
     },
     "INO": {
         "timesMentioned": 2,
@@ -372,17 +384,19 @@
         "POSITIVE": 1
     },
     "GL": {
-        "timesMentioned": 2,
-        "NEUTRAL": 2
+        "timesMentioned": 3,
+        "NEUTRAL": 2,
+        "NEGATIVE": 1
     },
     "AYX": {
         "timesMentioned": 1,
         "NEUTRAL": 1
     },
     "DKNG": {
-        "timesMentioned": 4,
-        "NEUTRAL": 3,
-        "POSITIVE": 1
+        "timesMentioned": 7,
+        "NEUTRAL": 4,
+        "POSITIVE": 1,
+        "NEGATIVE": 2
     },
     "FSLY": {
         "timesMentioned": 1,
@@ -394,8 +408,9 @@
         "NEGATIVE": 1
     },
     "MU": {
-        "timesMentioned": 1,
-        "NEUTRAL": 1
+        "timesMentioned": 3,
+        "NEUTRAL": 2,
+        "POSITIVE": 1
     },
     "OSTK": {
         "timesMentioned": 1,
@@ -422,28 +437,30 @@
         "NEUTRAL": 2
     },
     "BYND": {
-        "timesMentioned": 1,
-        "POSITIVE": 1
+        "timesMentioned": 2,
+        "POSITIVE": 1,
+        "NEUTRAL": 1
     },
     "MTL": {
         "timesMentioned": 1,
         "NEUTRAL": 1
     },
     "BIG": {
-        "timesMentioned": 3,
+        "timesMentioned": 4,
         "NEGATIVE": 2,
-        "POSITIVE": 1
+        "POSITIVE": 1,
+        "MIXED": 1
     },
     "CLF": {
-        "timesMentioned": 5,
-        "NEUTRAL": 4,
+        "timesMentioned": 7,
+        "NEUTRAL": 6,
         "NEGATIVE": 1
     },
     "UWMC": {
-        "timesMentioned": 23,
-        "NEUTRAL": 11,
-        "NEGATIVE": 8,
-        "POSITIVE": 4
+        "timesMentioned": 31,
+        "NEUTRAL": 16,
+        "NEGATIVE": 10,
+        "POSITIVE": 5
     },
     "DISCA": {
         "timesMentioned": 4,
@@ -451,18 +468,18 @@
         "NEUTRAL": 1
     },
     "UONE": {
-        "timesMentioned": 9,
-        "NEUTRAL": 6,
-        "NEGATIVE": 3
+        "timesMentioned": 14,
+        "NEUTRAL": 7,
+        "NEGATIVE": 7
     },
     "DOW": {
         "timesMentioned": 1,
         "NEUTRAL": 1
     },
     "CEO": {
-        "timesMentioned": 6,
-        "NEGATIVE": 3,
-        "NEUTRAL": 3
+        "timesMentioned": 12,
+        "NEGATIVE": 7,
+        "NEUTRAL": 5
     },
     "RBLX": {
         "timesMentioned": 3,
@@ -470,12 +487,12 @@
         "NEUTRAL": 1
     },
     "PT": {
-        "timesMentioned": 2,
-        "NEUTRAL": 2
+        "timesMentioned": 3,
+        "NEUTRAL": 3
     },
     "UPS": {
-        "timesMentioned": 1,
-        "NEGATIVE": 1
+        "timesMentioned": 2,
+        "NEGATIVE": 2
     },
     "VG": {
         "timesMentioned": 2,
@@ -491,10 +508,10 @@
         "POSITIVE": 1
     },
     "SNDL": {
-        "timesMentioned": 4,
-        "NEUTRAL": 2,
-        "POSITIVE": 1,
-        "NEGATIVE": 1
+        "timesMentioned": 12,
+        "NEUTRAL": 5,
+        "POSITIVE": 5,
+        "NEGATIVE": 2
     },
     "HEAR": {
         "timesMentioned": 1,
@@ -507,22 +524,23 @@
         "NEUTRAL": 1
     },
     "TV": {
-        "timesMentioned": 3,
+        "timesMentioned": 5,
         "POSITIVE": 2,
-        "MIXED": 1
+        "MIXED": 1,
+        "NEGATIVE": 2
     },
     "NKLA": {
-        "timesMentioned": 5,
+        "timesMentioned": 6,
         "NEGATIVE": 2,
-        "NEUTRAL": 3
+        "NEUTRAL": 4
     },
     "CMO": {
         "timesMentioned": 1,
         "NEUTRAL": 1
     },
     "TGT": {
-        "timesMentioned": 1,
-        "NEUTRAL": 1
+        "timesMentioned": 3,
+        "NEUTRAL": 3
     },
     "SPT": {
         "timesMentioned": 2,
@@ -544,8 +562,9 @@
         "NEUTRAL": 2
     },
     "FCX": {
-        "timesMentioned": 3,
-        "NEUTRAL": 3
+        "timesMentioned": 4,
+        "NEUTRAL": 3,
+        "NEGATIVE": 1
     },
     "LSPD": {
         "timesMentioned": 2,
@@ -553,9 +572,9 @@
         "NEUTRAL": 1
     },
     "BA": {
-        "timesMentioned": 8,
-        "NEUTRAL": 5,
-        "NEGATIVE": 2,
+        "timesMentioned": 10,
+        "NEUTRAL": 6,
+        "NEGATIVE": 3,
         "POSITIVE": 1
     },
     "BFLY": {
@@ -563,8 +582,8 @@
         "NEUTRAL": 1
     },
     "AI": {
-        "timesMentioned": 5,
-        "NEUTRAL": 4,
+        "timesMentioned": 6,
+        "NEUTRAL": 5,
         "NEGATIVE": 1
     },
     "POSH": {
@@ -573,9 +592,10 @@
         "NEGATIVE": 2
     },
     "PTON": {
-        "timesMentioned": 5,
-        "NEGATIVE": 3,
-        "NEUTRAL": 2
+        "timesMentioned": 8,
+        "NEGATIVE": 4,
+        "NEUTRAL": 3,
+        "POSITIVE": 1
     },
     "BBY": {
         "timesMentioned": 1,
@@ -605,13 +625,15 @@
         "NEUTRAL": 4
     },
     "IQ": {
-        "timesMentioned": 2,
-        "NEGATIVE": 1,
+        "timesMentioned": 3,
+        "NEGATIVE": 2,
         "POSITIVE": 1
     },
     "PLUG": {
-        "timesMentioned": 1,
-        "NEUTRAL": 1
+        "timesMentioned": 4,
+        "NEUTRAL": 2,
+        "MIXED": 1,
+        "POSITIVE": 1
     },
     "AZZ": {
         "timesMentioned": 1,
@@ -628,9 +650,10 @@
         "MIXED": 1
     },
     "O": {
-        "timesMentioned": 3,
+        "timesMentioned": 4,
         "POSITIVE": 2,
-        "NEUTRAL": 1
+        "NEUTRAL": 1,
+        "NEGATIVE": 1
     },
     "POST": {
         "timesMentioned": 1,
@@ -641,8 +664,8 @@
         "NEGATIVE": 1
     },
     "B": {
-        "timesMentioned": 2,
-        "POSITIVE": 1,
+        "timesMentioned": 3,
+        "POSITIVE": 2,
         "NEGATIVE": 1
     },
     "DOOR": {
@@ -654,13 +677,14 @@
         "NEUTRAL": 1
     },
     "UPST": {
-        "timesMentioned": 12,
-        "NEGATIVE": 10,
-        "NEUTRAL": 2
+        "timesMentioned": 14,
+        "NEGATIVE": 11,
+        "NEUTRAL": 3
     },
     "XL": {
-        "timesMentioned": 1,
-        "NEUTRAL": 1
+        "timesMentioned": 3,
+        "NEUTRAL": 1,
+        "NEGATIVE": 2
     },
     "ALLY": {
         "timesMentioned": 1,
@@ -675,32 +699,33 @@
         "MIXED": 1
     },
     "RH": {
-        "timesMentioned": 7,
-        "NEGATIVE": 5,
-        "NEUTRAL": 2
+        "timesMentioned": 10,
+        "NEGATIVE": 6,
+        "NEUTRAL": 4
     },
     "MARA": {
-        "timesMentioned": 3,
+        "timesMentioned": 5,
         "NEGATIVE": 1,
-        "NEUTRAL": 2
+        "NEUTRAL": 4
     },
     "D": {
-        "timesMentioned": 3,
+        "timesMentioned": 4,
         "NEGATIVE": 1,
-        "NEUTRAL": 2
+        "NEUTRAL": 3
     },
     "FB": {
-        "timesMentioned": 1,
-        "NEUTRAL": 1
+        "timesMentioned": 2,
+        "NEUTRAL": 2
     },
     "TMX": {
         "timesMentioned": 1,
         "NEUTRAL": 1
     },
     "ASO": {
-        "timesMentioned": 3,
+        "timesMentioned": 4,
         "POSITIVE": 2,
-        "NEGATIVE": 1
+        "NEGATIVE": 1,
+        "NEUTRAL": 1
     },
     "TTD": {
         "timesMentioned": 2,
@@ -708,8 +733,8 @@
         "POSITIVE": 1
     },
     "NNDM": {
-        "timesMentioned": 3,
-        "NEUTRAL": 1,
+        "timesMentioned": 4,
+        "NEUTRAL": 2,
         "NEGATIVE": 2
     },
     "GE": {
@@ -718,25 +743,28 @@
         "NEUTRAL": 1
     },
     "K": {
-        "timesMentioned": 1,
-        "NEGATIVE": 1
+        "timesMentioned": 2,
+        "NEGATIVE": 1,
+        "MIXED": 1
     },
     "STEM": {
         "timesMentioned": 1,
         "NEUTRAL": 1
     },
     "HAS": {
-        "timesMentioned": 1,
-        "NEGATIVE": 1
+        "timesMentioned": 2,
+        "NEGATIVE": 2
     },
     "PYPL": {
         "timesMentioned": 1,
         "NEUTRAL": 1
     },
     "CC": {
-        "timesMentioned": 2,
+        "timesMentioned": 4,
         "POSITIVE": 1,
-        "NEGATIVE": 1
+        "NEGATIVE": 1,
+        "MIXED": 1,
+        "NEUTRAL": 1
     },
     "NFLX": {
         "timesMentioned": 1,
@@ -759,14 +787,14 @@
         "NEUTRAL": 1
     },
     "VERY": {
-        "timesMentioned": 2,
+        "timesMentioned": 3,
         "POSITIVE": 1,
-        "NEGATIVE": 1
+        "NEGATIVE": 2
     },
     "ATH": {
-        "timesMentioned": 7,
-        "NEGATIVE": 3,
-        "NEUTRAL": 3,
+        "timesMentioned": 14,
+        "NEGATIVE": 7,
+        "NEUTRAL": 6,
         "POSITIVE": 1
     },
     "NUE": {
@@ -792,9 +820,10 @@
         "NEUTRAL": 1
     },
     "SKLZ": {
-        "timesMentioned": 2,
+        "timesMentioned": 3,
         "POSITIVE": 1,
-        "NEGATIVE": 1
+        "NEGATIVE": 1,
+        "NEUTRAL": 1
     },
     "CS": {
         "timesMentioned": 1,
@@ -805,12 +834,12 @@
         "POSITIVE": 1
     },
     "TD": {
-        "timesMentioned": 1,
-        "NEUTRAL": 1
+        "timesMentioned": 2,
+        "NEUTRAL": 2
     },
     "DE": {
-        "timesMentioned": 3,
-        "NEUTRAL": 2,
+        "timesMentioned": 4,
+        "NEUTRAL": 3,
         "NEGATIVE": 1
     },
     "LULU": {
@@ -847,14 +876,16 @@
         "NEUTRAL": 1
     },
     "AMAT": {
-        "timesMentioned": 3,
-        "MIXED": 1,
-        "NEGATIVE": 1,
-        "NEUTRAL": 1
+        "timesMentioned": 9,
+        "MIXED": 3,
+        "NEGATIVE": 2,
+        "NEUTRAL": 2,
+        "POSITIVE": 2
     },
     "ROKU": {
-        "timesMentioned": 2,
-        "NEUTRAL": 2
+        "timesMentioned": 4,
+        "NEUTRAL": 3,
+        "NEGATIVE": 1
     },
     "SGBX": {
         "timesMentioned": 2,
@@ -865,10 +896,10 @@
         "POSITIVE": 1
     },
     "BTX": {
-        "timesMentioned": 7,
+        "timesMentioned": 8,
         "NEGATIVE": 3,
         "POSITIVE": 2,
-        "NEUTRAL": 2
+        "NEUTRAL": 3
     },
     "BRPA": {
         "timesMentioned": 1,
@@ -879,9 +910,10 @@
         "NEGATIVE": 1
     },
     "TELL": {
-        "timesMentioned": 2,
-        "NEUTRAL": 1,
-        "NEGATIVE": 1
+        "timesMentioned": 6,
+        "NEUTRAL": 2,
+        "NEGATIVE": 3,
+        "POSITIVE": 1
     },
     "BJ": {
         "timesMentioned": 2,
@@ -913,14 +945,15 @@
         "NEGATIVE": 1
     },
     "SI": {
-        "timesMentioned": 1,
-        "NEUTRAL": 1
+        "timesMentioned": 2,
+        "NEUTRAL": 1,
+        "NEGATIVE": 1
     },
     "Y": {
-        "timesMentioned": 5,
+        "timesMentioned": 6,
         "NEGATIVE": 1,
         "MIXED": 2,
-        "NEUTRAL": 1,
+        "NEUTRAL": 2,
         "POSITIVE": 1
     },
     "CRM": {
@@ -948,14 +981,18 @@
         "NEUTRAL": 1
     },
     "IMO": {
-        "timesMentioned": 2,
-        "NEGATIVE": 1,
-        "NEUTRAL": 1
+        "timesMentioned": 7,
+        "NEGATIVE": 2,
+        "NEUTRAL": 2,
+        "MIXED": 2,
+        "POSITIVE": 1
     },
     "PUBM": {
-        "timesMentioned": 3,
+        "timesMentioned": 7,
         "NEUTRAL": 2,
-        "NEGATIVE": 1
+        "NEGATIVE": 1,
+        "MIXED": 2,
+        "POSITIVE": 2
     },
     "MRVI": {
         "timesMentioned": 6,
@@ -964,9 +1001,9 @@
         "POSITIVE": 1
     },
     "XOM": {
-        "timesMentioned": 3,
-        "NEGATIVE": 1,
-        "NEUTRAL": 2
+        "timesMentioned": 6,
+        "NEGATIVE": 3,
+        "NEUTRAL": 3
     },
     "XPEV": {
         "timesMentioned": 1,
@@ -1005,8 +1042,9 @@
         "POSITIVE": 1
     },
     "PS": {
-        "timesMentioned": 1,
-        "POSITIVE": 1
+        "timesMentioned": 3,
+        "POSITIVE": 1,
+        "NEGATIVE": 2
     },
     "TWTR": {
         "timesMentioned": 2,
@@ -1021,10 +1059,11 @@
         "NEGATIVE": 2
     },
     "MNMD": {
-        "timesMentioned": 62,
-        "NEUTRAL": 46,
-        "NEGATIVE": 10,
-        "POSITIVE": 6
+        "timesMentioned": 101,
+        "NEUTRAL": 69,
+        "NEGATIVE": 19,
+        "POSITIVE": 12,
+        "MIXED": 1
     },
     "FSR": {
         "timesMentioned": 1,
@@ -1035,8 +1074,8 @@
         "NEUTRAL": 1
     },
     "GSAT": {
-        "timesMentioned": 6,
-        "NEUTRAL": 5,
+        "timesMentioned": 7,
+        "NEUTRAL": 6,
         "MIXED": 1
     },
     "OTRK": {
@@ -1044,8 +1083,8 @@
         "NEUTRAL": 1
     },
     "WFC": {
-        "timesMentioned": 1,
-        "NEUTRAL": 1
+        "timesMentioned": 2,
+        "NEUTRAL": 2
     },
     "CRY": {
         "timesMentioned": 1,
@@ -1060,16 +1099,18 @@
         "NEGATIVE": 1
     },
     "MCD": {
-        "timesMentioned": 1,
-        "NEGATIVE": 1
+        "timesMentioned": 2,
+        "NEGATIVE": 1,
+        "NEUTRAL": 1
     },
     "BCRX": {
         "timesMentioned": 2,
         "NEUTRAL": 2
     },
     "FAT": {
-        "timesMentioned": 1,
-        "NEGATIVE": 1
+        "timesMentioned": 2,
+        "NEGATIVE": 1,
+        "NEUTRAL": 1
     },
     "DIS": {
         "timesMentioned": 1,
@@ -1084,8 +1125,10 @@
         "NEUTRAL": 2
     },
     "PANW": {
-        "timesMentioned": 1,
-        "NEUTRAL": 1
+        "timesMentioned": 4,
+        "NEUTRAL": 1,
+        "MIXED": 1,
+        "POSITIVE": 2
     },
     "BILL": {
         "timesMentioned": 1,
@@ -1105,25 +1148,28 @@
         "NEGATIVE": 1
     },
     "G": {
-        "timesMentioned": 1,
-        "POSITIVE": 1
+        "timesMentioned": 4,
+        "POSITIVE": 4
     },
     "PLBY": {
-        "timesMentioned": 2,
+        "timesMentioned": 3,
         "NEUTRAL": 1,
-        "NEGATIVE": 1
+        "NEGATIVE": 2
     },
     "AHT": {
-        "timesMentioned": 2,
-        "NEUTRAL": 2
+        "timesMentioned": 3,
+        "NEUTRAL": 2,
+        "POSITIVE": 1
     },
     "SU": {
         "timesMentioned": 1,
         "NEUTRAL": 1
     },
     "LOVE": {
-        "timesMentioned": 1,
-        "NEUTRAL": 1
+        "timesMentioned": 3,
+        "NEUTRAL": 1,
+        "NEGATIVE": 1,
+        "MIXED": 1
     },
     "IPOE": {
         "timesMentioned": 2,
@@ -1135,11 +1181,11 @@
         "NEUTRAL": 1
     },
     "LAZR": {
-        "timesMentioned": 15,
-        "NEUTRAL": 8,
-        "NEGATIVE": 4,
+        "timesMentioned": 19,
+        "NEUTRAL": 10,
+        "NEGATIVE": 5,
         "MIXED": 2,
-        "POSITIVE": 1
+        "POSITIVE": 2
     },
     "KSS": {
         "timesMentioned": 2,
@@ -1155,8 +1201,9 @@
         "NEUTRAL": 1
     },
     "SEAS": {
-        "timesMentioned": 1,
-        "NEGATIVE": 1
+        "timesMentioned": 2,
+        "NEGATIVE": 1,
+        "NEUTRAL": 1
     },
     "MRVL": {
         "timesMentioned": 1,
@@ -1167,8 +1214,9 @@
         "NEGATIVE": 2
     },
     "C": {
-        "timesMentioned": 3,
-        "NEUTRAL": 3
+        "timesMentioned": 6,
+        "NEUTRAL": 5,
+        "NEGATIVE": 1
     },
     "FAMI": {
         "timesMentioned": 2,
@@ -1199,8 +1247,8 @@
         "POSITIVE": 1
     },
     "SP": {
-        "timesMentioned": 1,
-        "NEUTRAL": 1
+        "timesMentioned": 2,
+        "NEUTRAL": 2
     },
     "PFE": {
         "timesMentioned": 1,
@@ -1223,8 +1271,8 @@
         "POSITIVE": 1
     },
     "ENPH": {
-        "timesMentioned": 1,
-        "NEUTRAL": 1
+        "timesMentioned": 2,
+        "NEUTRAL": 2
     },
     "W": {
         "timesMentioned": 1,
@@ -1247,16 +1295,17 @@
         "NEGATIVE": 1
     },
     "LIFE": {
-        "timesMentioned": 1,
-        "NEGATIVE": 1
+        "timesMentioned": 3,
+        "NEGATIVE": 1,
+        "NEUTRAL": 2
     },
     "GS": {
         "timesMentioned": 2,
         "NEGATIVE": 2
     },
     "CCL": {
-        "timesMentioned": 1,
-        "NEUTRAL": 1
+        "timesMentioned": 3,
+        "NEUTRAL": 3
     },
     "GOOG": {
         "timesMentioned": 1,
@@ -1265,5 +1314,259 @@
     "OG": {
         "timesMentioned": 1,
         "NEUTRAL": 1
+    },
+    "MOMO": {
+        "timesMentioned": 1,
+        "NEUTRAL": 1
+    },
+    "CRWD": {
+        "timesMentioned": 1,
+        "POSITIVE": 1
+    },
+    "OKTA": {
+        "timesMentioned": 4,
+        "NEGATIVE": 2,
+        "NEUTRAL": 2
+    },
+    "RBGLY": {
+        "timesMentioned": 1,
+        "NEUTRAL": 1
+    },
+    "CMG": {
+        "timesMentioned": 2,
+        "NEGATIVE": 1,
+        "NEUTRAL": 1
+    },
+    "ELSE": {
+        "timesMentioned": 1,
+        "NEGATIVE": 1
+    },
+    "RMO": {
+        "timesMentioned": 1,
+        "NEUTRAL": 1
+    },
+    "DM": {
+        "timesMentioned": 2,
+        "NEUTRAL": 2
+    },
+    "MO": {
+        "timesMentioned": 1,
+        "NEGATIVE": 1
+    },
+    "SQ": {
+        "timesMentioned": 2,
+        "NEUTRAL": 2
+    },
+    "GTT": {
+        "timesMentioned": 1,
+        "NEUTRAL": 1
+    },
+    "AMCX": {
+        "timesMentioned": 1,
+        "NEGATIVE": 1
+    },
+    "NEXT": {
+        "timesMentioned": 2,
+        "NEUTRAL": 2
+    },
+    "HOPE": {
+        "timesMentioned": 1,
+        "NEGATIVE": 1
+    },
+    "FORD": {
+        "timesMentioned": 1,
+        "NEUTRAL": 1
+    },
+    "EVRI": {
+        "timesMentioned": 1,
+        "POSITIVE": 1
+    },
+    "CMPS": {
+        "timesMentioned": 1,
+        "NEUTRAL": 1
+    },
+    "MDT": {
+        "timesMentioned": 2,
+        "NEUTRAL": 1,
+        "MIXED": 1
+    },
+    "BBIG": {
+        "timesMentioned": 4,
+        "NEUTRAL": 3,
+        "NEGATIVE": 1
+    },
+    "LMND": {
+        "timesMentioned": 1,
+        "NEGATIVE": 1
+    },
+    "BAC": {
+        "timesMentioned": 1,
+        "NEUTRAL": 1
+    },
+    "SEDG": {
+        "timesMentioned": 1,
+        "NEUTRAL": 1
+    },
+    "BLDP": {
+        "timesMentioned": 1,
+        "NEUTRAL": 1
+    },
+    "UBER": {
+        "timesMentioned": 1,
+        "POSITIVE": 1
+    },
+    "VTGN": {
+        "timesMentioned": 1,
+        "NEGATIVE": 1
+    },
+    "OPEN": {
+        "timesMentioned": 1,
+        "POSITIVE": 1
+    },
+    "LEVI": {
+        "timesMentioned": 1,
+        "NEGATIVE": 1
+    },
+    "GD": {
+        "timesMentioned": 1,
+        "NEGATIVE": 1
+    },
+    "MS": {
+        "timesMentioned": 1,
+        "NEUTRAL": 1
+    },
+    "SYY": {
+        "timesMentioned": 1,
+        "NEGATIVE": 1
+    },
+    "AA": {
+        "timesMentioned": 2,
+        "NEUTRAL": 2
+    },
+    "BRK.A": {
+        "timesMentioned": 2,
+        "NEUTRAL": 2
+    },
+    "J": {
+        "timesMentioned": 1,
+        "NEUTRAL": 1
+    },
+    "IPA": {
+        "timesMentioned": 1,
+        "NEUTRAL": 1
+    },
+    "BRO": {
+        "timesMentioned": 1,
+        "NEUTRAL": 1
+    },
+    "AMZN": {
+        "timesMentioned": 1,
+        "NEUTRAL": 1
+    },
+    "GPS": {
+        "timesMentioned": 1,
+        "MIXED": 1
+    },
+    "MSFT": {
+        "timesMentioned": 2,
+        "NEUTRAL": 2
+    },
+    "DVD": {
+        "timesMentioned": 1,
+        "NEUTRAL": 1
+    },
+    "PDSB": {
+        "timesMentioned": 1,
+        "NEUTRAL": 1
+    },
+    "CAT": {
+        "timesMentioned": 1,
+        "NEGATIVE": 1
+    },
+    "LPL": {
+        "timesMentioned": 1,
+        "NEUTRAL": 1
+    },
+    "IBKR": {
+        "timesMentioned": 1,
+        "POSITIVE": 1
+    },
+    "REG": {
+        "timesMentioned": 1,
+        "MIXED": 1
+    },
+    "SHO": {
+        "timesMentioned": 1,
+        "MIXED": 1
+    },
+    "PENN": {
+        "timesMentioned": 3,
+        "NEUTRAL": 3
+    },
+    "SE": {
+        "timesMentioned": 3,
+        "NEGATIVE": 1,
+        "POSITIVE": 1,
+        "NEUTRAL": 1
+    },
+    "RNG": {
+        "timesMentioned": 1,
+        "NEUTRAL": 1
+    },
+    "LNG": {
+        "timesMentioned": 1,
+        "POSITIVE": 1
+    },
+    "TROW": {
+        "timesMentioned": 1,
+        "NEUTRAL": 1
+    },
+    "FDX": {
+        "timesMentioned": 1,
+        "NEGATIVE": 1
+    },
+    "ST": {
+        "timesMentioned": 1,
+        "NEUTRAL": 1
+    },
+    "MOD": {
+        "timesMentioned": 1,
+        "NEGATIVE": 1
+    },
+    "CURI": {
+        "timesMentioned": 1,
+        "NEUTRAL": 1
+    },
+    "MLM": {
+        "timesMentioned": 1,
+        "NEGATIVE": 1
+    },
+    "WMT": {
+        "timesMentioned": 1,
+        "NEUTRAL": 1
+    },
+    "CMCSA": {
+        "timesMentioned": 1,
+        "NEUTRAL": 1
+    },
+    "HUGE": {
+        "timesMentioned": 1,
+        "POSITIVE": 1
+    },
+    "PINS": {
+        "timesMentioned": 1,
+        "NEGATIVE": 1
+    },
+    "SPOT": {
+        "timesMentioned": 1,
+        "NEGATIVE": 1
+    },
+    "SPPI": {
+        "timesMentioned": 1,
+        "NEUTRAL": 1
+    },
+    "BGFV": {
+        "timesMentioned": 1,
+        "NEGATIVE": 1
     }
 }

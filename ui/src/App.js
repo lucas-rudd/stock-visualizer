@@ -3,13 +3,13 @@ import './App.css';
 import BubbleChart from './BubbleChart'
 // TODO: read from DB instead of from a file
 import data from './resultsWithSentiment.json';
+import StockTable from './StockTable';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+        <StockTable data={data}/>
         <BubbleChart data={data}/>
-      </header>
     </div>
   );
 }

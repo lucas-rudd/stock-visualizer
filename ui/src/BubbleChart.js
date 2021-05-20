@@ -1,22 +1,11 @@
 import React from 'react';
 import CanvasJSReact from './assets/canvasjs.react';
+import { formatStockData } from './helpers/formatStockData';
 var CanvasJSChart = CanvasJSReact.CanvasJSChart;
 
 class StockBubbleChart extends React.Component {
-    
 	render() {
-        const formattedData = Object.keys(this.props.data).map(key => {
-            const positiveSentiment = this.props.data[key]['POSITIVE'] || 0;
-            const negativeSentiment = this.props.data[key]['NEGATIVE'] || 0;
-            // const neutralSentiment = this.props.data[key]['NEUTRAL'];
-            return {
-                label: key,
-                y: this.props.data[key].timesMentioned || 0,
-                z: this.props.data[key].timesMentioned || 0,
-                x: positiveSentiment - negativeSentiment
-            }
-        });
-        console.log('FORMATTED DATA', formattedData);
+        const formattedData = formatStockData(this.props.data);
 		const options = {
 			animationEnabled: true,
 			exportEnabled: true,
@@ -41,10 +30,12 @@ class StockBubbleChart extends React.Component {
 		
 		return (
 		<div>
-			<h1>Data from r/wallstreetbets</h1>
-			<CanvasJSChart options = {options} 
+			<h1 style={{ textAlign: 'center' }}>Data from r/wallstreetbets</h1>	
+			<div className='BubbleChart'>
+				<CanvasJSChart options = {options} 
 				/* onRef={ref => this.chart = ref} */
-			/>
+				/>
+			</div>
 			{/*You can get reference to the chart instance as shown above using onRef. This allows you to access all chart properties and methods*/}
 		</div>
 		);
