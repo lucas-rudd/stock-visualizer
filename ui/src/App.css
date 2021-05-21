@@ -41,6 +41,17 @@ body {
   background: #bdc3c7;
 }
 
+.bm-select, .bm-select:hover {
+  color: #373a47;
+  margin-right: 10px;
+  padding: 5px;
+  transition: none;
+}
+
+.label, .label:hover {
+  color: white
+}
+
 .bm-menu {
   background: #373a47;
   padding: 2.5em 1.5em 0;
